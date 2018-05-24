@@ -18,3 +18,5 @@
    obs_prep
    observation
    reduction
+   analysis
+   link
