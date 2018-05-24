@@ -105,7 +105,6 @@ html_static_path = ['_static']
 htmlhelp_basename = 'sphinxdoc'
 
 
-'''
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_elements = {
@@ -155,4 +154,3 @@ texinfo_documents = [
      author, 'sphinx', 'One line description of project.',
      'Miscellaneous'),
 ]
-'''
