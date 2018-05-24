@@ -11,7 +11,7 @@ Multi Pointは、ON点が複数ある場合に利用する方法です。ON点�
 
 *Beam Rotation Angle* : 今回は使用しませんので、そのままで大丈夫です。
 
-*Sequence Pattern* : スキャン順序のパターンを決めます。数字はReferenceタブにおけるID番号、\*はON点を示します。
+*Sequence Pattern* : スキャン順序のパターンを決めます。数字はReferenceタブにおけるID番号、アルファベットはON点を示します。
 
 *Number of Sequence* : 上で記述したパターンを繰り返す数です。Multi Pointの場合は、観測状況により各自で観測を止めることが通常ですので、長めに設定しておけば良いです。ただし、ON, OFF, RSKYをそれぞれ1カウントとして、1000未満でなければなりません。
 
