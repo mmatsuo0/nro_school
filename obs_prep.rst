@@ -39,3 +39,14 @@ nobsの説明
 .. tip::
  | nobs上での操作に関してです。
  | Macの場合ですが、control + aで全選択、control + cでコピー、control + vで貼り付けとなります。
+
+
+他ツール
+--------
+
+観測準備で役立つツールを紹介します。
+
+.. toctree::
+ multpa
+ obspoint
+
