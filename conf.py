@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '電波天文観測実習'
+project = u'電波天文観測実習'
 copyright = '2018, Mitsuhiro Matsuo'
 author = 'Mitsuhiro Matsuo'
 
