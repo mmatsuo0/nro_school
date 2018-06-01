@@ -1,9 +1,9 @@
 Cross Point
 ===========
 
-.. image:: image/nobs_scan_cp.png
-
 Cross Pointは、Pointing観測で使用される方法であり、Sourceタブで指定した座標を中心に十字型に5点観測します。基本的には *Samples* にあるものをそのまま使用しますので、パラメータは特に変更しなくて大丈夫だと思います。
+
+.. image:: image/nobs_scan_cp.png
 
 *Coordinate System* : Pointing時は通常 *Horizontal* です。
 

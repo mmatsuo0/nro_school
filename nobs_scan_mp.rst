@@ -1,9 +1,9 @@
 Multi Point
 ===========
 
-.. image:: image/nobs_scan_mp.png
-
 Multi Pointは、ON点が複数ある場合に利用する方法です。ON点の座標はSourceタブで指定した座標に対するオフセットで記述します。
+
+.. image:: image/nobs_scan_mp.png
 
 *Coordinate System* : 座標系を指定します。
 

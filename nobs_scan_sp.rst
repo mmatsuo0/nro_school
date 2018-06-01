@@ -1,9 +1,9 @@
 Single Point
 ============
 
-.. image:: image/nobs_scan_sp.png
-
 Single Pointは、ON点とOFF点を交互に観測する方法です。
+
+.. image:: image/nobs_scan_sp.png
 
 *Integration Time* : ON点の積分時間です。OFF点も同じ時間になります。
 

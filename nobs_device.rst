@@ -1,9 +1,9 @@
 Device
 ======
 
-.. image:: image/nobs_device_frontend.png
-
 Deviceタブでは、スキャンの方法を記載します。ここで作成されるテーブルは拡張子が *.ndevice* となります。
+
+.. image:: image/nobs_device_frontend.png
 
 *Device Table* : このテーブルの名前が入ります。これまでに作成したテーブルがあれば *Choose* ボタンにより選択することができます。作成したテーブル名を入力して *Load* ボタンを押すと、そのテーブルがロードされます。 *Samples* には、各受信機、各パターンのサンプルがあり、観測毎に使用するパターンを最初に選択してください [*]_。 *Save* ボタンを押すことで保存できます。 *Check* は記入したパラメータに問題がないかをチェックし、 *Summary* タブに設定が出力されます。
 

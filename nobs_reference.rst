@@ -1,9 +1,9 @@
 Reference
 =========
 
-.. image:: image/nobs_reference.png
-
 Referenceタブでは、OFF点の情報を記載します。ここで作成されるテーブルは拡張子が *.nreference* となります。
+
+.. image:: image/nobs_reference.png
 
 *Reference Table* : このテーブルの名前が入ります。これまでに作成したテーブルがあれば *Choose* ボタンにより選択することができます。作成したテーブル名を入力して *Load* ボタンを押すと、そのテーブルがロードされます。 *Save* ボタンを押すことで保存できます。 *Check* は記入したパラメータに問題がないかをチェックします。
 
