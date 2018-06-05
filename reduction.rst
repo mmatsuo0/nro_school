@@ -48,6 +48,7 @@ jnewstarの説明
  jns_linteg
  jns_baseline
  jns_show_spectra
+ jns_atsum
 
 
 .. hint::
