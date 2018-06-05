@@ -45,10 +45,12 @@ jnewstarの説明
  #. Show Spectra: リダクションされたスペクトルを見る。
 
 .. toctree::
+ jns_file_service
  jns_linteg
  jns_baseline
  jns_show_spectra
  jns_atsum
+ jns_map
 
 
 .. hint::
