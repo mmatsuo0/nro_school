@@ -16,7 +16,7 @@
 
 .. math::
 
-   T = -41.5 \bigg/ \ln \left[\frac{-0.282}{\tau(1, 1, m)} \ln \left\{1-\frac{\Delta T_A^* (2, 2, m)}{\Delta T_A^* (1, 1, m)}\left(1-\mathrm{e}^{-\tau(J, K, m)}\right)\right\}\right]
+   T = -41.5 \bigg/ \ln \left[\frac{-0.282}{\tau(1, 1, m)} \ln \left\{1-\frac{\Delta T_A^* (2, 2, m)}{\Delta T_A^* (1, 1, m)}\left(1-\mathrm{e}^{-\tau(1, 1, m)}\right)\right\}\right]
 
 
 アンモニアの柱密度
